@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Elevator Tracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="elevators_label">Elevators</string>
+    <string name="current_floor_label">Current Floor</string>
+    <string name="target_floor_label">Target Floor</string>
+    <string name="button_elevator1">1</string>
+    <string name="button_elevator2">2</string>
+    <string name="button_elevator3">3</string>
+    <string name="button_elevator4">4</string>
+    <string name="button_elevator5">5</string>
+    <string name="button_elevator6">6</string>
+    <string name="title_activity_elevator_ride">Elevator Ride</string>
+    <string name="stop_count_label">Number of stops:</string>
+    <string name="button_done">Done</string>
+    <string name="title_activity_view_data">View Data</string>
+    <string name="action_view_data">View Data</string>
+
+</resources>
