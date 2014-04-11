@@ -6,8 +6,6 @@ import java.util.Locale;
 
 import net.pillageandplunder.elevatortracker.DbContract.ElevatorRides;
 import android.content.Context;
-import android.database.DatabaseErrorHandler;
-import android.database.sqlite.SQLiteDatabase.CursorFactory;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.database.sqlite.SQLiteDatabase;
 

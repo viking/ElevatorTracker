@@ -1,6 +1,5 @@
 package net.pillageandplunder.elevatortracker;
 
-//import android.database.sqlite;
 import android.provider.BaseColumns;
 
 public final class DbContract {

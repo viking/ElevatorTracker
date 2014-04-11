@@ -1,12 +1,9 @@
 package net.pillageandplunder.elevatortracker;
 
-import java.text.SimpleDateFormat;
 import java.util.Date;
-import java.util.Locale;
 
 import net.pillageandplunder.elevatortracker.DbContract.ElevatorRides;
 import android.support.v7.app.ActionBarActivity;
-import android.support.v7.app.ActionBar;
 import android.support.v4.app.Fragment;
 import android.content.ContentValues;
 import android.content.Intent;
@@ -18,7 +15,6 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.NumberPicker;
-import android.os.Build;
 
 public class ElevatorRide extends ActionBarActivity {
 

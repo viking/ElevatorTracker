@@ -2,7 +2,6 @@ package net.pillageandplunder.elevatortracker;
 
 import net.pillageandplunder.elevatortracker.DbContract.ElevatorRides;
 import android.support.v7.app.ActionBarActivity;
-import android.support.v7.app.ActionBar;
 import android.support.v4.app.Fragment;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
@@ -14,7 +13,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ListView;
 import android.widget.SimpleCursorAdapter;
-import android.os.Build;
 
 public class ViewData extends ActionBarActivity {
 
